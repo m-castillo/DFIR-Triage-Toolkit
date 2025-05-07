@@ -1,1 +1,11 @@
-Hello World!
+Ping⚠192.168.0.1☠Done
+test@example.com
+Hello
+123
+another.one@something-website.org
+contact: admin@another-sample-website.com
+email support@very-legit-company.net
+IPS: 192.168.0.1, 10.0.0.17, 128.89.45.1, random text
+http://super-legit-company.com
+https://nice-but-malicious.site/login
+http://ip-address/evil.exe

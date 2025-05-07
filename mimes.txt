@@ -1,0 +1,14 @@
+if mime_type == "message/rfc822":
+    file_category = "email"
+elif mime_type in ["application/vnd.microsoft.portable-executable", "application/x-dosexec", "application/x-msdownload"]:
+    file_category = "executable"
+elif mime_type in ["application/pdf", "application/msword", "application/vnd.openxmlformats-officedocument.wordprocessingml.document"]:
+    file_category = "document"
+elif mime_type in ["application/zip", "application/x-tar", "application/x-gzip"]:
+    file_category = "archive"
+elif mime_type.startswith("image/"):
+    file_category = "image"
+elif mime_type == "text/plain":
+    file_category = "document"
+else:
+    file_category = "unknown"
