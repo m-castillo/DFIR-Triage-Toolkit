@@ -1,11 +1,35 @@
-Ping⚠192.168.0.1☠Done
-test@example.com
-Hello
-123
-another.one@something-website.org
-contact: admin@another-sample-website.com
-email support@very-legit-company.net
-IPS: 192.168.0.1, 10.0.0.17, 128.89.45.1, random text
-http://super-legit-company.com
-https://nice-but-malicious.site/login
-http://ip-address/evil.exe
+Subject: Re: Urgent Update Required
+
+Hi everyone=!
+
+Please ensure the following URLs are reviewed:
+
+http://secure-login.portal-verify.biz/reset
+https://cdn.finance-node.net/update/patcher.exe
+http://185.203.112.47/phishpanel
+
+We received reports that the domain support@internal-update.tech sent unauthorized attachments.
+Please verify the hash of the file sent with SHA256 checksum.
+
+Also note that the following users received similar messages:
+
+- nina@legit-business.io
+- sysadmin@mainframe-extra-zone.com
+- alerts@reboot-suoper-secure.info
+
+Last ping came from 192.168.45.77 which then redirected to 103.221.42.198.
+Investigate further hops found on external router logs showing destination 299.77.188.166 and 10.10.10.10 (internal NAT).
+
+The zipped archive sent to the billing team has been reported on:
+https://malwatch.alerts.download/ziptracker
+
+Please escalate this to IR immediately and confirm analysis of:
+
+- /mnt/shared/incident2025/fraud_invoice.exe
+- suspicious-voucher2025.xlsm
+
+Use triage_report.html to summarize these.
+
+Thanks,  
+Manuel C.
+SecOps / Castillo Security Inc.
